@@ -1,16 +1,16 @@
-## Hi there 👋
+**Rizwan Hussain**
 
-<!--
-**CloudRizz/CloudRizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+**Links & Social Media**
+
+
+**Certifications & Skills**
+
+![aws-re-start-graduate (1)](https://github.com/user-attachments/assets/de3b6763-4063-4c7f-84db-117cb52b7e63) ![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/321aa4da-d61e-4fa5-b4d9-611a1b5ba844)  
+
