@@ -1,4 +1,4 @@
-# Hi, I’m Riz
+# Rizwan Hussain
 
 
 ## About Me
