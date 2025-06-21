@@ -60,5 +60,6 @@ My leadership roots in the business world sharpen my cloud instincts—balancing
 
 ## Certifications & Skills
 
-![aws-re-start-graduate (1)](https://github.com/user-attachments/assets/de3b6763-4063-4c7f-84db-117cb52b7e63) ![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/321aa4da-d61e-4fa5-b4d9-611a1b5ba844)  
+![aws-re-start-graduate (1)](https://github.com/user-attachments/assets/de3b6763-4063-4c7f-84db-117cb52b7e63) ![aws-cloud-quest-cloud-practitioner](https://github.com/user-attachments/assets/b57710d6-5dd3-48f1-bc39-0930c2756e17)  ![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/321aa4da-d61e-4fa5-b4d9-611a1b5ba844)  
+
 
