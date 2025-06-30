@@ -52,10 +52,10 @@ My leadership roots in the business world sharpen my cloud instincts—balancing
 
 ## Links & Social Media
 
-| Service    |             URL               |  
+| Service   |             URL                |  
 |-----------|--------------------------------|
 | GitHub    | https://github.com/CloudRizz   |
-| Medium    | medium.com/@CloudRizz          |
+| Medium    | https://medium.com/@CloudRizz  |
 
 
 ## Certifications & Skills
