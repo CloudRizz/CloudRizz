@@ -8,7 +8,7 @@ A Cloud Engineer with a unique perspective shaped by a diverse career in leaders
 
 ## 🎓 Currently...
 
-- 🧑‍🏫 Studying for the **AWS Solutions Architect Associate** certification  
+- 🧑‍🏫 Studying for the **AWS DevOps Engineer Professional** certification  
 - 🚀 Building real-world AWS projects including serverless applications, CI/CD pipelines, and disaster recovery strategies  
 - 🤝 Collaborating as a **Cloud Support Engineer @ Solecurity**, contributing to production-ready infrastructure and improving cloud security postures
 
