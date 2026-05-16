@@ -41,6 +41,14 @@ I enjoy working across **cloud infrastructure, automation, and DevOps practices*
 
 ---
 
+## 📜 Certifications
+
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
 ## 🤝 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/CloudRizz)
