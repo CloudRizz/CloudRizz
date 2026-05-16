@@ -55,14 +55,6 @@ I enjoy working across **cloud infrastructure, automation, and DevOps practices*
 
 ---
 
-## 👀 Profile Views
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=CloudRizz&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## ☕ Support Me
 
 <p>
@@ -70,3 +62,14 @@ I enjoy working across **cloud infrastructure, automation, and DevOps practices*
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
   </a>
 </p>
+
+---
+
+## 👀 Profile Views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=CloudRizz&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+
+
