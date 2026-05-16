@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Rizwan Hussain
 
 Cloud Engineer | AWS SAA Certified | Terraform Certified | DevOps | Kubernetes | Docker | CI/CD
@@ -57,4 +59,8 @@ I enjoy working across **cloud infrastructure, automation, and DevOps practices*
 
 ## ☕ Support Me
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rizwanhussain)
+<p>
+  <a href="https://buymeacoffee.com/rizwanhussain">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+  </a>
+</p>
