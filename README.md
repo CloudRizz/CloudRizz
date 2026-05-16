@@ -1,6 +1,6 @@
 # Rizwan Hussain
 
-Cloud Engineer | AWS & Terraform Certified
+Cloud Engineer | AWS SAA & Terraform Certified | Cloud Infrastructure | CI/CD | Kubernetes | Docker
 
 ## About Me
 
