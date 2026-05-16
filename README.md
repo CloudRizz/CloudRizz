@@ -34,10 +34,10 @@ I enjoy working across **cloud infrastructure, automation, and DevOps practices*
 
 ## 📌 Projects (Updating)
 
-☁️ Serverless Video Processing System – AWS Lambda, S3, MediaConvert
-📦 Enterprise File Storage Platform – Secure S3 storage with IAM + encryption
-⚙️ CI/CD Pipeline Automation – GitHub Actions deployment workflows 
-🛡️ Disaster Recovery Architecture – AWS Pilot Light strategy design 
+☁️ Serverless Video Processing System – AWS Lambda, S3, MediaConvert  
+📦 Enterprise File Storage Platform – Secure S3 storage with IAM + encryption  
+⚙️ CI/CD Pipeline Automation – GitHub Actions deployment workflows  
+🛡️ Disaster Recovery Architecture – AWS Pilot Light strategy design  
 
 ---
 
