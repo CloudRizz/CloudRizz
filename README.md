@@ -12,7 +12,7 @@ Building secure, automated and scalable cloud infrastructure.
 
 ---
 
-## 🧰 Tech Stack
+<h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
 
@@ -29,39 +29,45 @@ Building secure, automated and scalable cloud infrastructure.
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### ⚙️ [Container CI/CD Platform](https://github.com/CloudRizz/container-cicd-platform)
-GitHub Actions • Docker • GHCR • Gitleaks • Zizmor
+**GitHub Actions • Docker • GHCR • Gitleaks • Zizmor**
 
 Automated CI/CD pipeline covering testing, linting, security scanning, container builds and image publishing.
 
 ### ☁️ [AWS Cloud Migration](https://github.com/CloudRizz/aws-cloud-migration-cdk)
-AWS CDK • TypeScript • VPC • EC2 • RDS • IAM
+**AWS CDK • TypeScript • VPC • EC2 • RDS • IAM**
 
 AWS infrastructure built with CDK, demonstrating multi-AZ networking, compute, database and security architecture.
 
 ### 🏗️ [WordPress on AWS](https://github.com/CloudRizz/aws-wordpress-terraform)
-Terraform • AWS • EC2 • RDS • cloud-init
+**Terraform • AWS • EC2 • RDS • cloud-init**
 
 Terraform infrastructure for an automated WordPress deployment using EC2, RDS and security-group isolation.
 
 ### 🐳 [Flask Redis Task Manager](https://github.com/CloudRizz/flask-redis-task-manager)
-Docker • NGINX • Flask • Redis • GitHub Actions
+**Docker • NGINX • Flask • Redis • GitHub Actions**
 
 Multi-container application demonstrating reverse proxying, container networking, persistent storage and automated CI.
 
 ---
 
-## 🚧 Currently Building
+<h2 align="center">🚧 Currently Building</h2>
 
-**Kubernetes Application Platform**
+<div align="center">
+
+### Kubernetes Application Platform
+
+**Kubernetes • Docker • CI/CD • Terraform • Observability**
 
 Building a containerised application platform covering Kubernetes deployments, services, ingress, autoscaling, persistent storage, CI/CD and observability.
 
+</div>
+
 ---
 
-## 📜 Certifications
+<h2 align="center">📜 Certifications</h2>
 
 <div align="center">
 
@@ -74,7 +80,7 @@ Building a containerised application platform covering Kubernetes deployments, s
 
 ---
 
-## 🤝 Connect
+<h2 align="center">🤝 Connect</h2>
 
 <div align="center">
 
