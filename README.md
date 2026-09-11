@@ -31,22 +31,24 @@ Building secure, automated and scalable cloud infrastructure.
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+### 🚀 [IT Tools — AWS ECS Fargate Platform](https://github.com/CloudRizz/it-tools-ecs-platform)
+**AWS ECS Fargate • Terraform • Docker • GitHub Actions • ECR • ALB • CloudWatch**
+
+Production-style AWS container platform running ECS Fargate workloads in private subnets, with HTTPS ingress through an ALB and infrastructure managed using Terraform.
+
+Automated SHA-based container deployments through GitHub Actions and AWS OIDC, with ECR image management, CloudWatch logging and secure private networking.
+
 ### ⚙️ [Container CI/CD Platform](https://github.com/CloudRizz/container-cicd-platform)
 **GitHub Actions • Docker • GHCR • Gitleaks • Zizmor**
 
 Automated CI/CD pipeline covering testing, linting, security scanning, container builds and image publishing.
-
-### ☁️ [AWS Cloud Migration](https://github.com/CloudRizz/aws-cloud-migration-cdk)
-**AWS CDK • TypeScript • VPC • EC2 • RDS • IAM**
-
-AWS infrastructure built with CDK, demonstrating multi-AZ networking, compute, database and security architecture.
 
 ### 🏗️ [WordPress on AWS](https://github.com/CloudRizz/aws-wordpress-terraform)
 **Terraform • AWS • EC2 • RDS • cloud-init**
 
 Terraform infrastructure for an automated WordPress deployment using EC2, RDS and security-group isolation.
 
-### 🐳 [Flask Redis Task Manager](https://github.com/CloudRizz/flask-redis-task-manager)
+### 🐳 [Flask Redis Task Manager](https://github.com/CloudRizz/flasedis-task-manager)
 **Docker • NGINX • Flask • Redis • GitHub Actions**
 
 Multi-container application demonstrating reverse proxying, container networking, persistent storage and automated CI.
