@@ -48,7 +48,7 @@ Automated CI/CD pipeline covering testing, linting, security scanning, container
 
 Terraform infrastructure for an automated WordPress deployment using EC2, RDS and security-group isolation.
 
-### 🐳 [Flask Redis Task Manager](https://github.com/CloudRizz/flasedis-task-manager)
+### 🐳 [Flask Redis Task Manager](https://github.com/CloudRizz/flask-redis-task-manager)
 **Docker • NGINX • Flask • Redis • GitHub Actions**
 
 Multi-container application demonstrating reverse proxying, container networking, persistent storage and automated CI.
