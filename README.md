@@ -45,6 +45,14 @@ Production-style AWS container platform running ECS Fargate workloads in private
 
 Automated SHA-based container deployments through GitHub Actions and AWS OIDC, with ECR image management, CloudWatch logging and secure private networking.
 
+### 🚀 [Production-Ready EC2 to ECS Migration](https://github.com/CloudRizz/ec2-to-ecs-migration)
+
+**AWS ECS Fargate • Terraform • Docker • GitHub Actions • ECR • ALB • Route 53 • CloudWatch**
+
+Production-style migration of a legacy Flask API from a single EC2 instance to ECS Fargate using private subnets, an Application Load Balancer and Infrastructure as Code.
+
+Includes GitHub OIDC, container and Terraform security scanning, CloudWatch monitoring, controlled DNS cutover, tested rollback to EC2 and automated infrastructure teardown.
+
 ### ⚙️ [Container CI/CD Platform](https://github.com/CloudRizz/container-cicd-platform)
 **GitHub Actions • Docker • GHCR • Gitleaks • Zizmor**
 
