@@ -38,51 +38,70 @@ Building secure, automated and scalable cloud infrastructure.
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-### 🚀 [IT Tools — AWS ECS Fargate Platform](https://github.com/CloudRizz/it-tools-ecs-platform)
-**AWS ECS Fargate • Terraform • Docker • GitHub Actions • ECR • ALB • CloudWatch**
+### 🗄️ [PostgreSQL High Availability / SRE Platform](https://github.com/CloudRizz/postgresql-ha-sre-platform)
 
-Production-style AWS container platform running ECS Fargate workloads in private subnets, with HTTPS ingress through an ALB and infrastructure managed using Terraform.
+**AWS • Terraform • Ansible • PostgreSQL • Patroni • etcd • NLB • Systems Manager**
 
-Automated SHA-based container deployments through GitHub Actions and AWS OIDC, with ECR image management, CloudWatch logging and secure private networking.
+Engineered a private PostgreSQL high-availability platform on AWS using Terraform and Ansible, implementing streaming replication, Patroni-managed leader election and a three-member etcd consensus cluster.
 
-### 🚀 [Production-Ready EC2 to ECS Migration](https://github.com/CloudRizz/ec2-to-ecs-migration)
+Executed controlled failure scenarios, including complete primary EC2 instance failure, validating automatic replica promotion, quorum retention, NLB connectivity and recovery of the former primary.
+
+**Key engineering outcomes:**
+- Automated PostgreSQL failover without manual promotion.
+- Validated database connectivity through a stable internal NLB endpoint.
+- Diagnosed and resolved network security-group connectivity failures.
+- Documented availability limitations, recovery procedures and architectural trade-offs.
+- Verified infrastructure teardown after completing the lab.
+
+### 🔄 [EC2 to ECS Production-Style Migration](https://github.com/CloudRizz/ec2-to-ecs-migration)
 
 **AWS ECS Fargate • Terraform • Docker • GitHub Actions • ECR • ALB • Route 53 • CloudWatch**
 
-Production-style migration of a legacy Flask API from a single EC2 instance to ECS Fargate using private subnets, an Application Load Balancer and Infrastructure as Code.
+Migrated a legacy Python Flask API from a single EC2 instance to a containerised ECS Fargate platform using private subnets, multi-AZ infrastructure and an Application Load Balancer.
 
-Includes GitHub OIDC, container and Terraform security scanning, CloudWatch monitoring, controlled DNS cutover, tested rollback to EC2 and automated infrastructure teardown.
+Implemented automated container delivery using GitHub Actions and AWS OIDC, with security scanning, Terraform plan reviews and controlled production deployment approvals.
 
-### ⚙️ [Container CI/CD Platform](https://github.com/CloudRizz/container-cicd-platform)
-**GitHub Actions • Docker • GHCR • Gitleaks • Zizmor**
+**Key engineering outcomes:**
+- Containerised and deployed the legacy Flask application to ECS Fargate.
+- Implemented secure CI/CD using short-lived AWS credentials.
+- Integrated Trivy, Checkov and Gitleaks security scanning.
+- Performed a controlled Route 53 DNS cutover from EC2 to ECS.
+- Tested rollback to the original EC2 environment.
+- Implemented CloudWatch monitoring and controlled infrastructure teardown.
 
-Automated CI/CD pipeline covering testing, linting, security scanning, container builds and image publishing.
+### ☁️ [IT Tools — AWS ECS Fargate Platform](https://github.com/CloudRizz/it-tools-ecs-platform)
 
-### 🏗️ [WordPress on AWS](https://github.com/CloudRizz/aws-wordpress-terraform)
-**Terraform • AWS • EC2 • RDS • cloud-init**
+**AWS ECS Fargate • Terraform • Docker • GitHub Actions • ECR • ALB • CloudWatch**
 
-Terraform infrastructure for an automated WordPress deployment using EC2, RDS and security-group isolation.
+Built a production-style AWS container platform running ECS Fargate workloads in private subnets, with HTTPS ingress through an Application Load Balancer and infrastructure provisioned using reusable Terraform modules.
 
-### 🐳 [Flask Redis Task Manager](https://github.com/CloudRizz/flask-redis-task-manager)
-**Docker • NGINX • Flask • Redis • GitHub Actions**
+Automated application deployments using GitHub Actions and AWS OIDC, enabling repeatable image builds, immutable container tagging and deployment to ECS without long-lived AWS credentials.
 
-Multi-container application demonstrating reverse proxying, container networking, persistent storage and automated CI.
+**Key engineering outcomes:**
+- Provisioned secure AWS networking and container infrastructure with Terraform.
+- Deployed private ECS Fargate workloads behind an HTTPS-enabled ALB.
+- Automated container build and deployment workflows.
+- Implemented IAM controls, CloudWatch logging and operational health checks.
+- Documented networking, security and cost trade-offs.
+
+### 📊 [AWS Cost Intelligence Bot](https://github.com/CloudRizz/aws-cost-intelligence-bot)
+
+**TypeScript • AWS CDK • Lambda • EventBridge • Cost Explorer • CloudWatch • GitHub Actions**
+
+Developed an event-driven AWS cost monitoring solution using TypeScript, AWS CDK and Lambda to retrieve billing information and automatically deliver daily spending reports through Telegram.
+
+Implemented secure credential management, automated infrastructure testing, scheduled execution, operational monitoring and security scanning.
+
+**Key engineering outcomes:**
+- Automated daily AWS cost reporting using EventBridge Scheduler.
+- Integrated AWS Cost Explorer with Lambda and Telegram notifications.
+- Secured credentials using AWS Systems Manager Parameter Store.
+- Implemented CloudWatch alarms, encrypted SNS notifications and failure handling.
+- Validated application and infrastructure behaviour using automated tests.
+- Integrated Checkov and Gitleaks into CI/CD validation.
 
 ---
 
-<h2 align="center">🚧 Currently Building</h2>
-
-<div align="center">
-
-### Kubernetes Application Platform
-
-**Kubernetes • Docker • CI/CD • Terraform • Observability**
-
-Building a containerised application platform covering Kubernetes deployments, services, ingress, autoscaling, persistent storage, CI/CD and observability.
-
-</div>
-
----
 
 <h2 align="center">📜 Certifications</h2>
 
