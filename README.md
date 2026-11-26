@@ -38,6 +38,23 @@ Building secure, automated and scalable cloud infrastructure.
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+### 🔗 [Shrnk — AWS ECS URL Shortener & Analytics Platform](https://github.com/CloudRizz/url-shortener-ecs-v2)
+
+**AWS ECS Fargate • Terraform • Python/FastAPI • Go • React • Docker • PostgreSQL • Redis • SQS • CloudFront • GitHub Actions**
+
+Engineered and deployed a multi-service URL shortener on AWS, combining a FastAPI API, an asynchronous Go analytics worker and a Go dashboard with a React frontend hosted on S3 and CloudFront.
+
+Provisioned modular Terraform infrastructure with private ECS Fargate workloads, PostgreSQL, Redis caching, SQS event processing, an Application Load Balancer protected by AWS WAF, and secure GitHub Actions delivery using OIDC.
+
+**Key engineering outcomes:**
+- Built and validated the end-to-end URL shortening, redirection and asynchronous analytics pipeline.
+- Implemented private VPC networking without NAT gateways, using AWS VPC endpoints.
+- Automated container builds, security checks and commit-tagged ECS deployments with health-based rollback.
+- Integrated Trivy, Checkov and Gitleaks into CI/CD security validation.
+- Tested Redis failure fallback, PostgreSQL recovery and SQS dead-letter queue redrive.
+- Diagnosed deployment and Terraform teardown failures, documenting root causes and remediation.
+- Decommissioned AWS infrastructure after testing to eliminate ongoing cloud costs while preserving deployment evidence and architecture documentation.
+
 ### 🗄️ [PostgreSQL High Availability / SRE Platform](https://github.com/CloudRizz/postgresql-ha-sre-platform)
 
 **AWS • Terraform • Ansible • PostgreSQL • Patroni • etcd • NLB • Systems Manager**
